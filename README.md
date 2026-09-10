@@ -1,35 +1,71 @@
-<h2 align="left">Hi 👋! My name is Atıf Eren and I'm a Computer Engineering Student</h2>
+# Hi there, I'm Atıf Eren Yarıkan 
 
-###
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=atifereny&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://linkedin.com/in/atiferenyarikan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://atiferen.com" target="_blank"><img src="https://img.shields.io/badge/Website-atiferen.com-4E5EE4?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
+---
 
-###
+### About Me
+I am an **R&D Computer Engineer** specializing in **Artificial Intelligence, Computer Vision, and Medical Image Processing**. Currently developing deep learning pipelines, automated cell classification systems, and edge-AI solutions, while pursuing my **M.Sc. at Istanbul Technical University (İTÜ)**.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/at%C4%B1f-eren-yar%C4%B1kan-04a506229/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- **Working on:** Automated hematology imaging systems, peripheral blood cell classification & object detection.
+- **Education:** M.Sc. in Information and Communications Engineering at **İTÜ** | B.Sc. in Computer Engineering at **FSMVU**.
+- **Research:** Published in **Nature Scientific Data** (KU-Optofil PBC Dataset) and **IEEE SİU** (YOLO & Hierarchical Deep Learning for Hematology).
+- **Focus Areas:** Computer Vision, Deep Learning Optimization, Medical AI, Embedded Systems & Full-Stack Interfaces.
 
-###
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Machine Learning & Computer Vision**
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+#### **Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### **Frameworks & Edge / IoT**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### Selected Publications & Datasets
+- **KU-Optofil PBC Dataset** – *Nature Scientific Data (2026)* | Large-scale peripheral blood cell dataset with 31,000+ annotated microscopic images.
+- **Morphology-Based Hybrid Hierarchical Classification** – *IEEE SİU (2026)* | DenseNet121 & XGBoost hybrid model for clinical cell analysis.
+- **Experimental Comparison of YOLO Models for WBC Detection** – *IEEE SİU (2025)* | Object detection benchmarks on microphotograph hematology samples.
+
+---
+
+### GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atifereny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifereny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atifereny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
