@@ -56,5 +56,3 @@ I am an **R&D Computer Engineer** specializing in **Artificial Intelligence, Com
 - **KU-Optofil PBC Dataset** – *Nature Scientific Data (2026)* | Large-scale peripheral blood cell dataset with 31,000+ annotated microscopic images.
 - **Morphology-Based Hybrid Hierarchical Classification** – *IEEE SİU (2026)* | DenseNet121 & XGBoost hybrid model for clinical cell analysis.
 - **Experimental Comparison of YOLO Models for WBC Detection** – *IEEE SİU (2025)* | Object detection benchmarks on microphotograph hematology samples.
-
----
