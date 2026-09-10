@@ -1,4 +1,4 @@
-# Hi there, I'm Atıf Eren Yarıkan 
+# Hi there, I'm Atıf Eren 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atifereny&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
