@@ -58,14 +58,3 @@ I am an **R&D Computer Engineer** specializing in **Artificial Intelligence, Com
 - **Experimental Comparison of YOLO Models for WBC Detection** – *IEEE SİU (2025)* | Object detection benchmarks on microphotograph hematology samples.
 
 ---
-
-### GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atifereny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifereny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atifereny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
